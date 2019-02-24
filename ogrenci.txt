@@ -1,0 +1,5 @@
+123456	Ferdi	Besli	Bilgisayar	2014	ferdi@abc.com	+905051234567 	
+123456	Ferdi	Besli	Bilgisayar	2014	ferdi@abc.com	+905051234567
+123456	Ferdi	Besli	Bilgisayar	2014	ferdi@abc.com	+905051234567
+123456	Ferdi	Besli	Bilgisayar	2014	ferdi@abc.com	+905051234567
+123456	Ferdi	Besli	Bilgisayar	2014	ferdi@abc.com	+905051234567	
